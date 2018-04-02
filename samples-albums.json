@@ -1,0 +1,17 @@
+{ "albums": [{
+    "title": " Culture II",
+    "artist": "Migos",
+    "description": "walk it like I talk it.",
+    "id": "1"
+    }, {
+    "title": "Stay Trippy",
+    "artist": "Juicy J",
+    "description": "Slob on my Knob.",
+    "id": "2"
+      }, {
+    "title": "More Life",
+    "artist": "Drake",
+    "description": "Nickelodeon.",
+    "id": "3"
+  }]
+}
